@@ -1,6 +1,7 @@
 #include  <stdio.h>
 int  main(){
 int  number = 100;
-printf("%n", number);
+int number2 = 300:  
+printf("%n", number + number2);
 return  0;
 }
