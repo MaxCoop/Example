@@ -3,7 +3,7 @@
 // You may not distribute it in any other way without permission.
 
 /* Code for Assignment 2, COMP102
- * Name:
+ * Name: AYY lmao
  * Usercode:
  * ID:
  */
